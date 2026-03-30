@@ -68,7 +68,7 @@ const Footer = () => {
           <div className="flex items-center space-x-3 order-1 lg:order-1">
             <div className="w-16 h-16 rounded-full flex items-center justify-center overflow-hidden">
               <img 
-                src="/lovable-uploads/8169f376-7ae0-4490-a86c-2c09c3a37911.png" 
+                src="/logo.png" 
                 alt="Speak Smart Logo" 
                 className="w-full h-full object-contain"
               />

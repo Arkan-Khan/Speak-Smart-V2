@@ -1,4 +1,10 @@
 
+// ARCHIVED: FeatureGrid is no longer rendered on the page.
+// - The 4 course points are now in CoursePointsAndVision.tsx
+// - The "Your Trainer" card layout below is preserved for reference;
+//   it has been reimplemented in FounderSection.tsx.
+
+/*
 import { Clock, Video, Award, HeadphonesIcon } from "lucide-react";
 
 const FeatureGrid = () => {
@@ -19,18 +25,18 @@ const FeatureGrid = () => {
           </div>
         ))}
       </div>
-      
+
+      // ARCHIVED: Your Trainer section — layout reused in FounderSection.tsx
       <div className="flex flex-col items-center mt-6 text-center">
         <div className="mb-4">
           <div className="w-32 h-32 rounded-full border-4 border-white overflow-hidden mx-auto">
-            <img 
-              src="/lovable-uploads/868ad4c4-8f79-4fc2-9ac2-db6aeab5748d.png" 
-              alt="Reshma Dabholkar Damari" 
+            <img
+              src="/lovable-uploads/868ad4c4-8f79-4fc2-9ac2-db6aeab5748d.png"
+              alt="Reshma Dabholkar Damari"
               className="w-full h-full object-cover"
             />
           </div>
         </div>
-        
         <div className="flex flex-col items-center justify-center leading-6 gap-4 bg-white p-4 rounded-xl shadow-lg">
           <div className="bg-orange-500 px-4 py-2 text-sm rounded-xl text-black font-semibold">
             Your Trainer
@@ -48,3 +54,7 @@ const FeatureGrid = () => {
 };
 
 export default FeatureGrid;
+*/
+
+export {};
+

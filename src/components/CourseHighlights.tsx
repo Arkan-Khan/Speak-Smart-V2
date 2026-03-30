@@ -24,12 +24,12 @@ const CourseHighlights = () => {
     {
       icon: Waves,
       title: "Fluency Techniques",
-      subtitle: "(English Fluency develop करण्यासाठी लागणाऱ्या 4 Right Techniques LSRW module चे संपूर्ण मार्गदर्शन, नेमकं काय आणि कसे ऐकायचे, वाचायचे याच Practical Activities द्वारे मार्गदर्शन)",
+      subtitle: "AI चा वापर - AI (ChatGPT) द्वारे विद्यार्थी त्यांच्या शंका थेट विचारू शकतात. त्यांना लगेच योग्य उत्तर आणि feedback मिळतो. त्यामुळे self-learning, confidence आणि English skills सुधारतात",
       color: "from-purple-500 to-pink-500"
     },
     {
       icon: MessageCircle,
-      title: "Day to Day Conversations",
+      title: "Real Life conversations",
       subtitle: "(Practical and easy ways of daily conversations.  Practical Situations घेऊन दैनंदिन जीवनातील संवाद आणि त्याचा सराव)",
       color: "from-yellow-500 to-orange-500"
     },
@@ -44,14 +44,18 @@ const CourseHighlights = () => {
   return (
     <section className="px-6 py-16">
       <div className="max-w-6xl mx-auto">
-        <h2 className="text-3xl md:text-4xl font-bold text-center mb-4">
-          <span className="text-white">कोर्समध्ये काय </span>
-          <span className="text-orange-500">शिकायला मिळेल</span>
+        <h2 className="text-3xl md:text-4xl font-bold text-center mb-3">
+          <span className="text-white">Our </span>
+          <span className="text-orange-500">Syllabus</span>
         </h2>
+        <p className="text-gray-400 text-center text-base md:text-lg mb-8">
+          योग्य इंग्रजी ऐका आणि सहजपणे बोला <br /> Listen | Speak | Grow 
+
+        </p>
         
         <div className="grid md:grid-cols-3 gap-6 mb-12">
           {highlights.map((highlight, index) => (
-            <div key={index} className="bg-[#222] rounded-xl py-3 px-4 hover:bg-gray-800 transition-colors">
+            <div key={index} className="bg-[#1a1a1a] border border-white/[0.06] rounded-xl py-3 px-4 hover:bg-gray-800 transition-colors">
               <div className={`w-12 h-12 bg-gradient-to-r ${highlight.color} rounded-lg flex items-center justify-center mb-4`}>
                 <highlight.icon className="w-6 h-6 text-white" />
               </div>
