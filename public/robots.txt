@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://www.speak-smart.co.in/sitemap.xml
+Sitemap: https://app.speak-smart.co.in/sitemap.xml

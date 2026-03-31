@@ -57,25 +57,11 @@ export const testimonials: Testimonial[] = [
       "SpeakSmart E-Learning Application हे आमच्या शाळेसाठी उपयुक्त साधन ठरले आहे. विद्यार्थ्यांची English listening आणि speaking skills सुधारताना स्पष्ट दिसत आहेत. विशेषतः ग्रामीण भागातील विद्यार्थ्यांसाठी ही पद्धत अधिक practical आणि सोपी आहे. प्राथमिक आणि माध्यमिक स्तरासाठी वेगवेगळे modules असल्यामुळे प्रत्येक विद्यार्थ्याला त्याच्या समजेनुसार learning मिळते. Teachers साठी घेतल्या जाणाऱ्या online interactive sessions मुळे teaching मध्ये English बोलण्यावर अधिक भर दिला जात आहे. त्यामुळे वर्गात English वापरण्याची सवय तयार होत आहे आणि एक चांगली communication competency build होण्यास मदत होत आहे.",
     rating: 5,
   },
-  {
-    id: 4,
-    type: "video",
-    name: "Student Name",
-    thumbnail: "",
-    driveLink: "#", // TODO: replace with actual Google Drive video link
-  },
-  {
-    id: 5,
-    type: "video",
-    name: "Student Name",
-    thumbnail: "",
-    driveLink: "#", // TODO: replace with actual Google Drive video link
-  },
-  {
-    id: 6,
-    type: "video",
-    name: "Student Name",
-    thumbnail: "",
-    driveLink: "#", // TODO: replace with actual Google Drive video link
-  },
+  // {
+  //   id: 4,
+  //   type: "video",
+  //   name: "Student Name",
+  //   thumbnail: "",
+  //   driveLink: "#",
+  // }
 ];

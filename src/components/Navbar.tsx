@@ -16,7 +16,7 @@ import { Button } from "@/components/ui/button";
 const Navbar = () => {
   const handleBookDemo = () => {
     window.location.href =
-      "mailto:speakenglishwithreshmad@gmail.com?subject=Book%20a%20Free%20Demo";
+      "mailto:speaksmart001@gmail.com?subject=Book%20a%20Free%20Demo";
   };
 
   return (

@@ -42,7 +42,7 @@ const ProductCards = () => {
                   rel="noopener noreferrer"
                   className="mt-1 inline-block bg-orange-500 hover:bg-orange-600 text-white text-xs font-semibold px-4 py-1.5 rounded-lg transition-colors shadow"
                 >
-                  View Course
+                  View
                 </a>
               </div>
             </div>

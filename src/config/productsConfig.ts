@@ -23,30 +23,30 @@ export interface Product {
 export const products: Product[] = [
   {
     id: 1,
-    marathiTitle: "प्रि-स्कूल संस्था",
+    marathiTitle: "Preschool Program",
     englishTitle: "Pre-School Institutions",
     image: "/product-1.png",
-    driveLink: "#", // TODO: replace with actual Google Drive link
+    driveLink: "https://preschool.speak-smart.co.in/",
   },
   {
     id: 2,
-    marathiTitle: "प्राथमिक शिक्षण संस्था",
+    marathiTitle: "Primary Program",
     englishTitle: "Primary Educational Institutions",
     image: "/product-2.png",
-    driveLink: "#", // TODO: replace with actual Google Drive link
+    driveLink: "https://primary.speak-smart.co.in/",
   },
   {
     id: 3,
-    marathiTitle: "माध्यमिक शिक्षण संस्था",
+    marathiTitle: "High School Program",
     englishTitle: "Secondary Educational Institutions",
     image: "/product-3.png",
-    driveLink: "#", // TODO: replace with actual Google Drive link
+    driveLink: "https://highschool.speak-smart.co.in/",
   },
   {
     id: 4,
-    marathiTitle: "महाविद्यालयीन संस्था",
+    marathiTitle: "College Program",
     englishTitle: "College/University Institutions",
     image: "/product-4.png",
-    driveLink: "#", // TODO: replace with actual Google Drive link
+    driveLink: "https://college.speak-smart.co.in/",
   },
 ];

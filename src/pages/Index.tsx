@@ -48,7 +48,7 @@ const Index = () => {
       <section className="px-6 pt-12 pb-8 text-center">
         <h2 className="text-2xl md:text-4xl font-bold mb-4 leading-tight">
           <span className="text-white block mb-3">ग्रामीण भागातील विद्यार्थ्यांसाठी</span>
-          <span className="text-orange-500">इंग्रजी बोलायला शिकवणारा एकमेव कोर्स</span>
+          <span className="text-orange-500">इंग्रजी बोलायला शिकवणारा एकमेव E-Learning Application </span>
         </h2>
         <h3 className="text-base md:text-lg text-gray-400 mb-8 max-w-2xl mx-auto">
           इंग्रजीची भीती घालवा ! आत्मविश्वास वाढवा !<br />
