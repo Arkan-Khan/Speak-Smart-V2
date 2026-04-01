@@ -20,6 +20,7 @@ const bullets = [
   { en: "Interactive Sessions",                     mr: "संवादात्मक सत्रे" },
   { en: "Translation Method (English & Marathi)",  mr: "इंग्रजी–मराठी पद्धती" },
   { en: "English-to-English Practice",              mr: "इंग्रजीत विचार करण्याचा सराव" },
+  { en: "Effective Presentation & Communication Skills",              mr: "प्रभावी सादरीकरण व संवाद कौशल्ये" }
 ];
 
 const WhySpeakSmart = () => {

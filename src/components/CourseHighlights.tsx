@@ -5,14 +5,14 @@ const CourseHighlights = () => {
   const highlights = [
     {
       icon: Brain,
-      title: "5 secrets of Mindset Building",
-      subtitle: "(अगदी पहिलीपासून इंग्रजी शिकत असून सुद्धा इंग्रजी बोलता येत नाही याची नेमकी कारण आणि त्याचे सोल्युशन्स इंग्रजी बोलण्याची स्टेप १ म्हणजेच त्याला अनुरूप अशी मानसिकता !)",
+      title: "Translation Method (Sentence Clarity Builder)",
+      subtitle: "(मराठीतून इंग्रजीत योग्य वाक्यरचना कशी करायची हे step-by-step शिकवणारी पद्धत. Translation च्या मदतीने grammar स्पष्ट होते आणि sentence structure मजबूत बनत.)",
       color: "from-orange-500 to-red-500"
     },
     {
       icon: Book,
-      title: "Foundation of English Language",
-      subtitle: "(जरुरी आहे ते ग्रामर, English sentence structures चे बेसिक्स, सोप्या hints आणि shortcuts सोबत; कोणतही Complication नाही, confusion नाही. सहज सोपी पद्धत.)",
+      title: "English to English Thinking Method (Fluency Booster)",
+      subtitle: "(मराठीत विचार न करता थेट इंग्रजीत विचार करण्याची सवय लावणारी पद्धत. यामुळे speaking speed वाढतो, confidence boost होतो आणि natural English बोलता येते.)",
       color: "from-blue-500 to-cyan-500"
     },
     {

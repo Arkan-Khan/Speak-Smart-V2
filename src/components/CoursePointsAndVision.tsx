@@ -30,7 +30,7 @@ const CoursePointsAndVision = () => {
           {/* Left — Course Points */}
           <div className="bg-[#1a1a1a] border border-white/[0.06] rounded-2xl p-6 flex flex-col justify-center gap-4">
             <h3 className="text-orange-500 text-xl font-bold mb-2 text-center">
-              Course Highlights
+              Highlights
             </h3>
             {coursePoints.map((point, index) => (
               <div

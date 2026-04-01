@@ -31,7 +31,7 @@ const founders: FounderCard[] = [
     name: "Capt. Omkar Dabholkar",
     image: "/co-founder.jpeg",
     imageAlt: "Capt. Omkar Dabholkar — Co-Founder",
-    bio: "Captain Omkar Dabholkar, Co-Founder, has 15+ years of experience in the global shipping industry, with strong leadership and system-driven expertise.",
+    bio: "Captain Omkar Dabholkar, Co-Founder, has 18+ years of experience in the global shipping industry, with strong leadership and system-driven expertise.   is passionate about empowering rural students through skill development, confidence building, and connecting them to global career opportunities.",
   },
 ];
 
